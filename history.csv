@@ -3,3 +3,7 @@ fecha,plataforma,esquema,precio_actual_usd,precio_ref_base_usd,moneda,nota
 2026-07-30,SMATICA,PECB,889,889,USD,referencia-base voucher-2-intentos (antes 1778)
 2026-07-30,iCertworks,PECB,,,,pendiente-capturar-primera-ejecucion
 2026-07-30,GSDC,propio,400,400,USD,referencia-base (antes 800)
+2026-07-30,Reconn,PECB,799,799,USD,captura-rutina
+2026-07-30,SMATICA,PECB,,889,,no-disponible-fallo-fetch-3-intentos
+2026-07-30,iCertworks,PECB,1150,1150,USD,captura-rutina-primera-referencia (multi-region: US/UK $1150; EU/ME $1050; APAC/Africa $950)
+2026-07-30,GSDC,propio,400,400,USD,captura-rutina
