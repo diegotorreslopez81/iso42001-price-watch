@@ -15,3 +15,7 @@ fecha,plataforma,esquema,precio_actual_usd,precio_ref_base_usd,moneda,nota
 2026-07-30,SMATICA,PECB,,889,,no-disponible-fallo-fetch-2-intentos-websearch-sin-precio
 2026-07-30,iCertworks,PECB,1150,1150,USD,captura-rutina (multi-region: US/CA/UK $1150; EU/ME $2499-instructor $1050-selfstudy segun seccion; APAC/Africa $950)
 2026-07-30,GSDC,propio,400,400,USD,captura-rutina-excluida-no-openbook
+2026-07-31,Reconn,PECB,799,799,USD,agotado-out-of-stock-no-comprable-hoy
+2026-07-31,SMATICA,PECB,,889,,no-disponible-fetch-vacio-2-intentos-websearch-confirmo-url-correcta
+2026-07-31,iCertworks,PECB,1150,1150,USD,disponible-ganadora-hoy-tras-exclusion-reconn-smatica
+2026-07-31,GSDC,propio,400,400,USD,excluida-no-openbook
