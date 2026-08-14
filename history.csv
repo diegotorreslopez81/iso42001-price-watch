@@ -71,3 +71,7 @@ fecha,plataforma,esquema,precio_actual_usd,precio_ref_base_usd,moneda,nota
 2026-08-13,SMATICA,PECB,,889,,no-disponible-fetch-vacio-3-intentos-websearch-sin-precio
 2026-08-13,iCertworks,PECB,1150,1150,USD,disponible-no-ganadora (multi-region: US/CA/UK $1150; EU/ME $2499-live; self-study/eLearning $950-1150 segun region)
 2026-08-13,GSDC,propio,400,400,USD,excluida-no-openbook
+2026-08-14,Reconn,PECB,799,799,USD,disponible-ganadora-hoy
+2026-08-14,SMATICA,PECB,,889,,no-disponible-fetch-vacio-2-intentos-websearch-sin-precio
+2026-08-14,iCertworks,PECB,1150,1150,USD,disponible-no-ganadora (multi-region: US/CA/UK $1150; EU/ME $1050; APAC/Africa $950)
+2026-08-14,GSDC,propio,400,400,USD,excluida-no-openbook
