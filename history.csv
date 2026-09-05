@@ -159,3 +159,7 @@ fecha,plataforma,esquema,precio_actual_usd,precio_ref_base_usd,moneda,nota
 2026-09-04,SMATICA,PECB,,889,USD,no disponible-fetch vacio
 2026-09-04,iCertworks,PECB,1150,1150,USD,disponible-no-ganadora
 2026-09-04,GSDC,propio,400,400,USD,excluida-no-openbook
+2026-09-05,Reconn,PECB,799,799,USD,50%-descuento-sobre-1600
+2026-09-05,SMATICA,PECB,,,,no-disponible-webfetch-vacio
+2026-09-05,iCertworks,PECB,1150,1150,USD,self-study-950-1150-segun-region-usada-base
+2026-09-05,GSDC,propio,400,400,USD,excluida-no-open-book
