@@ -175,3 +175,7 @@ fecha,plataforma,esquema,precio_actual_usd,precio_ref_base_usd,moneda,nota
 2026-09-08,SMATICA,PECB,,889,USD,no-disponible-pagina-vacia-reintentado-2x
 2026-09-08,iCertworks,PECB,1150,1150,USD,disponible-no-ganadora (multi-region: US/CA/UK $1150; EU/ME $1050; APAC/Africa $950)
 2026-09-08,GSDC,propio,400,400,USD,excluida-no-openbook (oferta hoy $800->$400)
+2026-09-09,Reconn,PECB,,799,USD,no-disponible-429-too-many-requests-reintentado-2x
+2026-09-09,SMATICA,PECB,,889,USD,no-disponible-webfetch-vacio-reintentado-2x
+2026-09-09,iCertworks,PECB,1150,1150,USD,disponible-ganadora-hoy (multi-region: US/CA/UK $1150; EU/ME $1050; APAC/Africa $950)
+2026-09-09,GSDC,propio,400,400,USD,excluida-no-openbook
